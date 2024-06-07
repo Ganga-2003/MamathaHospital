@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="zxx">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="description" content="Orbitor,business,company,agency,modern,bootstrap4,tech,software">
+    <meta name="author" content="themefisher.com">
+    <title>Mamatha Hospital-Piduguralla</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="./images/favicon_io (2)/favicon.ico">
+    <!-- bootstrap.min css -->
+    <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
+    <!-- Icon Font Css -->
+    <link rel="stylesheet" href="plugins/icofont/icofont.min.css">
+    <!-- Slick Slider  CSS -->
+    <link rel="stylesheet" href="plugins/slick-carousel/slick/slick.css">
+    <link rel="stylesheet" href="plugins/slick-carousel/slick/slick-theme.css">
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body id="top">
+    <header>
+      <div class="header-top-bar">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-lg-6">
+              <ul class="top-bar-info list-inline-item pl-0 mb-0">
+                <li class="list-inline-item"><a href="mailto:support@gmail.com"><i
+
+                      class="icofont-support-faq mr-2"></i></a><a href="mailto:mamathahospitalpdrl@gmail.com">mamathahospitalpdrl@gmail.com</a></li>
+                <li class="list-inline-item"><i class="icofont-location-pin mr-2"></i><a
+
+                    href="https://www.google.com/maps/place/Mamatha+Hospital/@16.4788026,79.8844,15z/data=%214m16%211m9%213m8%211s0x3a356f8a8a68e0d3:0x49b0d5510a8cc9a0%212sMamatha+Hospital%218m2%213d16.4787823%214d79.8946783%219m1%211b1%2116s%2Fg%2F11f1262kp9%213m5%211s0x3a356f8a8a68e0d3:0x49b0d5510a8cc9a0%218m2%213d16.4787823%214d79.8946783%2116s%2Fg%2F11f1262kp9?hl=en-US&amp;entry=ttu">D.no:
+                    16, 707/1, Main Road </a></li>
+              </ul>
+            </div>
+            <div class="col-lg-6">
+              <div class="text-lg-right top-right-bar mt-2 mt-lg-0"> <a href="tel:+23-345-67890">
+                  <span>Call Now : </span><span class="h4">09490179456</span> </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <nav class="navbar navbar-expand-lg navigation" id="navbar">
+        <div class="container">
+          <h1> <a class="navbar-brand" href="index.html"> <img src="images/logo.png"
+
+                alt="" class="img-fluid" style="width: 139px; height: 102px;"><b><span
+
+                  style="color: #cc0000;"> Mamatha
+                  Hospital&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  </span><b></b></b></a></h1><b><b><b><span style="color: #cc0000;"><button
+
+                    class="navbar-toggler collapsed" type="button" data-toggle="collapse"
+
+                    data-target="#navbarmain" aria-controls="navbarmain" aria-expanded="false"
+
+                    aria-label="Toggle navigation"><span class="icofont-navigation-menu"></span>
+                  </button> </span></b>
+              <div class="collapse navbar-collapse" id="navbarmain"><b><span style="color: #cc0000;">
+                  </span></b>
+                <ul class="navbar-nav ml-auto">
+                  <b><span style="color: #cc0000;"> </span></b>
+                  <li class="nav-item active"><b><span style="color: #cc0000;">
+                      </span></b><a class="nav-link" href="index.html">Home</a>
+                  </li>
+                  <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+                  <li class="nav-item"><a class="nav-link" href="service.html">Services</a></li>
+                  <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle"
+
+                      href="department.html" id="dropdown02" data-toggle="dropdown"
+
+                      aria-haspopup="true" aria-expanded="false">Department <i
+
+                        class="icofont-thin-down"></i></a>
+                    <ul class="dropdown-menu" aria-labelledby="dropdown02">
+                      <li><a class="dropdown-item" href="department.html">On
+                          Call</a></li>
+                      <li><a class="dropdown-item" href="Opthomology.html">Opthomology</a></li>
+                      <li><a class="dropdown-item" href="Gynecology.html">Gynecology</a></li>
+                    </ul>
+                  </li>
+                  <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle"
+
+                      href="doctor.html" id="dropdown03" data-toggle="dropdown"
+
+                      aria-haspopup="true" aria-expanded="false">Doctors <i class="icofont-thin-down"></i></a>
+                    <ul class="dropdown-menu" aria-labelledby="dropdown03">
+                      <li><a class="dropdown-item" href="doctor.html">Doctors</a></li>
+                      <li><a class="dropdown-item" href="bharatsir.html">Dr.
+                          Dhulipalla Bharat Kumar</a></li>
+                      <li><a class="dropdown-item" href="sunithamam.html">Dr.
+                          Dhulipalla Sunitha</a></li>
+                      <li><a class="dropdown-item" href="appoinment.html">Appoinment</a></li>
+                    </ul>
+                  </li>
+                  <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
+                  <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                </ul>
+              </div>
+            </b></b></div>
+        <b><b> </b></b></nav>
+      <b><b> </b></b></header>
+    <b><b>
+    <section class="page-title bg-1">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="block text-center"> <span class="text-white">All
+                Department</span>
+              <h1 class="text-capitalize mb-5 text-lg">Care Department</h1>
+              <!-- <ul class="list-inline breadcumb-nav">
+            <li class="list-inline-item"><a href="index.html" class="text-white">Home</a></li>            <li class="list-inline-item"><span class="text-white">/</span></li>            <li class="list-inline-item"><a href="#" class="text-white-50">All Department</a></li>          </ul> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section service-2">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-7 text-center">
+            <div class="section-title">
+              <h2>Award winning patient care</h2>
+              <div class="divider mx-auto my-4"></div>
+              <p>Mamatha Hospital is recognized for its award-winning patient
+                care, reflecting its dedication to excellence in healthcare
+                servicesvs.</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6 ">
+            <div class="department-block mb-5"> <img src="images/service/optho.jpg"
+
+                class="img-fluid w-100">
+              <div class="content">
+                <h4 class="mt-4 mb-2 title-color">Opthomology</h4>
+                <p class="mb-4">Our Ophthalmology department offers
+                  comprehensive eye care services, including advanced diagnostic
+                  and surgical treatments to enhance vision and eye health.</p>
+                <a href="Opthomology.html" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="department-block mb-5"> <img src="images/service/gyno"
+
+                class="img-fluid w-100">
+              <div class="content">
+                <h4 class="mt-4 mb-2  title-color">Gynecology</h4>
+                <p class="mb-4">The Gynecology department provides expert care
+                  for women's health, offering a range of services from routine
+                  exams to complex surgeries and reproductive health management.</p>
+                <a href="Gynecology.html" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="department-block mb-5"> <img src="images/service/cardio"
+
+                class="img-fluid w-100">
+              <div class="content">
+                <h4 class="mt-4 mb-2 title-color">Cardiology</h4>
+                <p class="mb-4">Our Cardiology team specializes in the diagnosis
+                  and treatment of heart conditions, utilizing the latest
+                  technology to ensure optimal cardiovascular health.</p>
+                <a href="Cardiology.html" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 ">
+            <div class="department-block  mb-5 mb-lg-0"> <img src="images/service/neuro"
+
+                class="img-fluid w-100">
+              <div class="content">
+                <h4 class="mt-4 mb-2 title-color">Neurology</h4>
+                <p class="mb-4">The Neurology department focuses on the
+                  treatment of neurological disorders, offering advanced care
+                  for conditions affecting the brain, spinal cord, and nerves.</p>
+                <a href="Neurology.html" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="department-block mb-5 mb-lg-0"> <img src="images/service/derma"
+
+                class="img-fluid w-100">
+              <div class="content">
+                <h4 class="mt-4 mb-2 title-color">Dermatology</h4>
+                <p class="mb-4">Our Dermatology department provides expert care
+                  for skin conditions, offering treatments for a wide range of
+                  dermatological issues using state-of-the-art techniques.</p>
+                <a href="Dermatology.html" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="department-block mb-5 mb-lg-0"> <img src="images/service/onco"
+
+                class="img-fluid w-100">
+              <div class="content">
+                <h4 class="mt-4 mb-2 title-color">Oncology</h4>
+                <p class="mb-4">The Oncology department delivers comprehensive
+                  cancer care, including prevention, diagnosis, treatment, and
+                  supportive services to ensure the best possible outcomes.</p>
+                <a href="Oncology.html" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 ">
+            <div class="department-block mb-5"> <img src="images/service/radio"
+
+                class="img-fluid w-100">
+              <div class="content">
+                <h4 class="mt-4 mb-2 title-color">Radiology</h4>
+                <p class="mb-4">Our Radiology department offers cutting-edge
+                  imaging services, providing accurate diagnostics to support
+                  the effective treatment of various medical conditions.</p>
+                <a href="Radiology.html" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 ">
+            <div class="department-block mb-5"> <img src="images/service/anes"
+
+                class="img-fluid w-100">
+              <div class="content">
+                <h4 class="mt-4 mb-2 title-color">Anesthesiology</h4>
+                <p class="mb-4">The Anesthesiology team ensures patient safety
+                  and comfort during surgical procedures, using advanced
+                  anesthetic techniques tailored to individual needs.</p>
+                <a href="Anesthesiology.html" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 ">
+            <div class="department-block mb-5"> <img src="images/service/physio"
+
+                class="img-fluid w-100">
+              <div class="content">
+                <h4 class="mt-4 mb-2 title-color">Physiotherapy</h4>
+                <p class="mb-4">Our Physiotherapy department helps patients
+                  regain movement and function through personalized
+                  rehabilitation programs and therapeutic exercises.</p>
+                <a href="Physiotherapy.html" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 ">
+            <div class="department-block mb-5"> <img src="images/service/Psychiatry"
+
+                class="img-fluid w-100">
+              <div class="content">
+                <h4 class="mt-4 mb-2 title-color">Psychiatry</h4>
+                <p class="mb-4">The Psychiatry department provides compassionate
+                  mental health care, offering treatment for a range of
+                  psychological conditions with a focus on holistic well-being.</p>
+                <a href="Psychiatry.html" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 ">
+            <div class="department-block mb-5"> <img src="images/service/medi"
+
+                class="img-fluid w-100">
+              <div class="content">
+                <h4 class="mt-4 mb-2 title-color">General Medicine</h4>
+                <p class="mb-4"></p>
+                <p class="mb-4">Our General Medicine department offers
+                  comprehensive primary care services, addressing a wide
+                  spectrum of health concerns with a focus on preventive and
+                  ongoing care.</p>
+                <a href="General%20Medicine.html" class="read-more">Learn More <i
+
+                    class="icofont-simple-right ml-2"></i></a> </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 ">
+            <div class="department-block mb-5"> <img src="images/service/pedi"
+
+                class="img-fluid w-100">
+              <div class="content">
+                <h4 class="mt-4 mb-2 title-color">Pediatrics</h4>
+                <p class="mb-4">The Pediatrics department provides specialized
+                  care for children, ensuring their health and development
+                  through a range of medical services from infancy to
+                  adolescence.</p>
+                <a href="Pediatrics.html" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- footer Start -->
+    <footer class="footer section gray-bg">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 mr-auto col-sm-6">
+            <div class="widget mb-5 mb-lg-0">
+              <div class="logo mb-4"> <img src="images/logo.png" alt="" class="img-fluid">
+              </div>
+              <p>Mamatha Hospital is a healthcare facility renowned for its
+                comprehensive medical services and patient care excellence​.</p>
+              <ul class="list-inline footer-socials mt-4">
+                <li class="list-inline-item"><a href="https://www.facebook.com/bharatkumar.dhulipalla/"><i
+
+                      class="icofont-facebook"></i></a><br>
+                </li>
+                <li class="list-inline-item"><a href="https://twitter.com/DhulipallaDr"><i
+
+                      class="icofont-twitter"></i></a><br>
+                </li>
+                <li class="list-inline-item"><a href="#"><i class="icofont-linkedin"></i></a><br>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-6 col-sm-6">
+            <div class="widget mb-5 mb-lg-0">
+              <h4 class="text-capitalize mb-3">Department</h4>
+              <div class="divider mb-4"></div>
+              <ul class="list-unstyled footer-menu lh-35">
+                <li><a href="Opthomology.html">Ophthalmology</a></li>
+                <li><a href="Gynecology.html">Gynecology</a></li>
+                <li><a href="#">Anesthesiology</a></li>
+                <li><a href="#">General Surgery</a></li>
+                <li><a href="#">General Medicine</a></li>
+                <li><a href="#">Pediatrics</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-6 col-sm-6">
+            <div class="widget mb-5 mb-lg-0">
+              <h4 class="text-capitalize mb-3">Quick Links</h4>
+              <div class="divider mb-4"></div>
+              <ul class="list-unstyled footer-menu lh-35">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="service.html">Services </a></li>
+                <li><a href="department.html">Departments</a></li>
+                <li><a href="doctor.html">Doctors</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><br>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="widget widget-contact mb-5 mb-lg-0">
+              <h4 class="text-capitalize mb-3">Get in Touch</h4>
+              <div class="divider mb-4"></div>
+              <div class="footer-contact-block mb-4">
+                <div class="icon d-flex align-items-center"> <i class="icofont-email mr-3"></i>
+                  <span class="h6 mb-0">Support Available for 24/7</span> </div>
+                <h4 class="mt-2"><a href="tel:09490179456">mamathahospitalpdrl@gmail.com</a></h4>
+              </div>
+              <div class="footer-contact-block">
+                <div class="icon d-flex align-items-center"> <i class="icofont-support mr-3"></i>
+                  <span class="h6 mb-0">Mon to Fri : 08:30 - 18:00</span> </div>
+                <h4 class="mt-2"><a href="tel:09490179456">09490179456</a></h4>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="footer-btm py-4 mt-5">
+          <div class="row align-items-center justify-content-between">
+            <div class="col-lg-6">
+              <div class="copyright">© Copyright Reserved to <span class="text-color">Mamatha
+                Hospital</span> by <a href="https://my-portfolio-ashen-two.vercel.app/"
+
+
+                  target="_blank">GSM's Tech Solutions</a></div>
+            </div>
+            <div class="col-lg-6">
+              <div class="subscribe-form text-lg-right mt-5 mt-lg-0">
+                <form action="#" class="subscribe"> <input class="form-control"
+
+                    placeholder="Your Email address" type="text"> <a href="#" class="btn btn-main-2 btn-round-full">Subscribe</a>
+                </form>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-4"> <a class="backtop js-scroll-trigger" href="#top">
+                <i class="icofont-long-arrow-up"></i> </a> </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- 
+    Essential Scripts    =====================================-->
+    <!-- Main jQuery -->
+    <script src="plugins/jquery/jquery.js"></script>
+    <!-- Bootstrap 4.3.2 -->
+    <script src="plugins/bootstrap/js/popper.js"></script>
+    <script src="plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script src="plugins/counterup/jquery.easing.js"></script>
+    <!-- Slick Slider -->
+    <script src="plugins/slick-carousel/slick/slick.min.js"></script>
+    <!-- Counterup -->
+    <script src="plugins/counterup/jquery.waypoints.min.js"></script>
+    <script src="plugins/shuffle/shuffle.min.js"></script>
+    <script src="plugins/counterup/jquery.counterup.min.js"></script>
+    <!-- Google Map -->
+    <script src="plugins/google-map/map.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkeLMlsiwzp6b3Gnaxd86lvakimwGA6UA&callback=initMap"></script>
+    <script src="js/script.js"></script>
+    <script src="js/contact.js"></script>
+  </body>
+</html>
